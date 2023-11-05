@@ -1,6 +1,6 @@
-# News Aggregator
+# News Website Using API
 
-News Aggregator is a simple web application that allows users to fetch and view news articles from various sources. It leverages the NewsAPI to provide a wide range of news articles on different topics and categories.
+News Website is a simple web application that allows users to fetch and view news articles from various sources. It leverages the NewsAPI to provide a wide range of news articles on different topics and categories.
 
 
 
