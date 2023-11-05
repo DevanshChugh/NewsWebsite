@@ -24,7 +24,7 @@ Open the HTML file (index.html) in your web browser.
 
 Explore and enjoy the news articles.
 
-#Usage
+## Usage
 
 1.When the application loads, it initially fetches news related to a default category (e.g., "India").
 
