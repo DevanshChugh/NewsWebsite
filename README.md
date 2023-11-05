@@ -13,7 +13,7 @@ News Aggregator is a simple web application that allows users to fetch and view 
 
 ## Prerequisites
 
-- [NewsAPI](https://newsapi.org/): You need to obtain an API key from NewsAPI to use this application. Replace `"YOUR_API_KEY"` in the JavaScript code with your actual API key.
+- [NewsAPI](https://newsapi.org/): You need to obtain an API key from NewsAPI to use this application. Replace `"c34452b0cefc4f65bda45c8a65b852f7"` in the JavaScript code with your actual API key.
 
 ## Getting Started
 
@@ -26,8 +26,11 @@ Explore and enjoy the news articles.
 
 Usage
 1.When the application loads, it initially fetches news related to a default category (e.g., "India").
+
 2.Click on the navigation items to switch between different news categories.
+
 3.Use the search bar to enter specific news topics or keywords and click the search button.
+
 4.Click on any news card to read the full article on the source website.
 
 Customization
